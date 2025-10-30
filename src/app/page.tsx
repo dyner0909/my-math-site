@@ -42,3 +42,4 @@ export default function Home() {
     </main>
   );
 }
+<a href="/courses">강의 목록 보기 →</a>
